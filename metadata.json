@@ -1,0 +1,5 @@
+{
+  "name": "ContextCard.ai",
+  "description": "High-retention study tool that converts unstructured media into spaced-repetition flashcards using Gemini Flash.",
+  "requestFramePermissions": []
+}
